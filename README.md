@@ -80,7 +80,7 @@ I'm a Computer Science student at **Pandit Deendayal Energy University (PDPU), G
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ict161&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulin-rai&theme=default&hide_border=true" />
 </p>
 
 ---
