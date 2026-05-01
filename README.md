@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pulin Rai 👋</h1>
 
 <p align="center">
-  <b>CS Student @ PDPU · AIML Enthusiast</b><br/>
+  <b>ICT Student @ PDEU · AIML Enthusiast</b><br/>
   AIML Internships · Open to work!
 </p>
 
